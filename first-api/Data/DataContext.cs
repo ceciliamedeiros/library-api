@@ -7,6 +7,8 @@ namespace first_api.Data
     {
         public DataContext(DbContextOptions<DataContext> options) : base(options) { }
 
-        public DbSet<Book> Books { get; set; } 
+        public DbSet<Book> Books { get; set; }
+
+        public DbSet<Customer> Customers { get; set; }
     }
 }

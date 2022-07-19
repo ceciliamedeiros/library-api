@@ -68,7 +68,6 @@ C:\Users\mmedeiros\Documents\Estudo\.NET\first-api\first-api\bin\Debug\net6.0\Mi
 C:\Users\mmedeiros\Documents\Estudo\.NET\first-api\first-api\bin\Debug\net6.0\Microsoft.Data.OData.dll
 C:\Users\mmedeiros\Documents\Estudo\.NET\first-api\first-api\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\mmedeiros\Documents\Estudo\.NET\first-api\first-api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
-C:\Users\mmedeiros\Documents\Estudo\.NET\first-api\first-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Newtonsoft.dll
 C:\Users\mmedeiros\Documents\Estudo\.NET\first-api\first-api\bin\Debug\net6.0\System.Spatial.dll
 C:\Users\mmedeiros\Documents\Estudo\.NET\first-api\first-api\bin\Debug\net6.0\de\Microsoft.Data.Edm.resources.dll
 C:\Users\mmedeiros\Documents\Estudo\.NET\first-api\first-api\bin\Debug\net6.0\es\Microsoft.Data.Edm.resources.dll
