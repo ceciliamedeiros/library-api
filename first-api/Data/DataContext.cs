@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using first_api.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace first_api.Data
 {
